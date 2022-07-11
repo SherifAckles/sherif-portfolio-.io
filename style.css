@@ -152,9 +152,7 @@ a:hover {
   font-family: "Merriweather", serif;
 }
 @media screen and (max-width: 500px) {
-  .bottom-container,
-  .top-container,
-  .middle-container {
+  body,html {
     width: 100vh;
   }
 }
